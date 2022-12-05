@@ -1,5 +1,8 @@
 <h1 align="center">Simulador da copa do mundo 2022</h1>
 <h1 align="center">
+  <a href="https://world-cup-simulator-ja.vercel.app/">🚀 Deploy</a>
+</h1>
+<h1 align="center">
   <a href="https://angular.io/">🔗 Angular</a>
 </h1>
 
